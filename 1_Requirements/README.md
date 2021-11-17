@@ -7,6 +7,8 @@ DTH Billing System is developed to maintain the details of DTH Billing using sma
 The aim of the system is to develope “DTH BILLING SYSTEM” software, which should automate the process to create and store DTH Billing record details.
 The system is supposed to be used as a subsystem in a large office system, which could be manual system or a computerized one.
 
+
+
 Features:-
 
 1. Add Records.
@@ -15,6 +17,8 @@ Features:-
 4. List Records.
 5. Payment.
 6. Modify Records.
+
+
 
 SWOT ANALYSIS:-
 
@@ -36,6 +40,7 @@ System Crash
 Errors and ommision
 
 
+
 4W's and 1H :-
 
 Who: DTH Billing Management.
@@ -43,6 +48,7 @@ What: DTH Billing Records.
 When: There was problem of storing data manually but advancement in technologies helped in storing data and accessing it easily.
 Where: This project can be used for DTH Billing.
 How: The inconvinience is caused in storing data manually and accessing it. Digitally storing data will be helpful in accessing data easily and modifying it.
+
 
 
 Details requirements:-
@@ -58,5 +64,5 @@ HLR6--> Deleting records(D)
 
 Low Level Requirements
 LLR1--> Name
-LLR2--> smartcard number
+LLR2--> Smartcard nNumber
 LLR3--> Amount
