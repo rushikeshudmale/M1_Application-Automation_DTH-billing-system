@@ -24,15 +24,16 @@ Folder               | Description
 |F_05| Payment |
 |F_06| Modify the Records|
 
-##Challenges Faced and How Was It Overcome
+## Challenges Faced and How Was It Overcome
 
 1.GCC erorr in windows and linux: installed the gcc msys64 mingw64 properly.
+
 2.Generation of makefile: To overcome this problem research on makefiles was done.
+
 3.Unity testing: Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
 
 ## Learning Resources
 
-1.https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1
-2.https://www.studytonight.com/c/structures-in-c.php/
-3.https://www.programiz.com/c-programming/c-dynamic-memory-allocation
-
+1.gcc makefile
+2.github workflow
+3.structure in c
