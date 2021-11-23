@@ -35,8 +35,8 @@ Folder               | Description
 
 ## Learning Resources
 
-1.gcc makefile.
+1.*[gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
 
-2.github workflow.
+2.*[github workflow]
 
-3.structure in c.
+3.*[structure in c](https://www.studytonight.com/c/structures-in-c.php/)
