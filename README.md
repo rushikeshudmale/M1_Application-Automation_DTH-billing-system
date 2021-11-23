@@ -1,6 +1,7 @@
 # M1_Application-Automation_DTH-billing-system
 DTH Billing System is an application that enables users to add and store records.
 
+#  Code-Inspector Badges
 Build | Cpp Check | Unity | Codacy
 ------|----------|-------|--------------
 [![C/C++ Build](https://github.com/vaishnavisuslade/M1_Application-Automation_DTH-Billing-System/actions/workflows/Build.yml/badge.svg)](https://github.com/vaishnavisuslade/M1_Application-Automation_DTH-Billing-System/actions/workflows/Build.yml)  | [![Code Quality - Static Code - Cppcheck](https://github.com/rushikeshudmale/M1_Application-Automation_DTH-billing-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/rushikeshudmale/M1_Application-Automation_DTH-billing-system/actions/workflows/cppcheck.yml) | [![C/C++ CI UnitTesting](https://github.com/rushikeshudmale/M1_Application-Automation_DTH-billing-system/actions/workflows/unity.yml/badge.svg)](https://github.com/rushikeshudmale/M1_Application-Automation_DTH-billing-system/actions/workflows/unity.yml)  | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8e752b85a98642748a4a1c20f164008f)](https://www.codacy.com/gh/rushikeshudmale/M1_Application-Automation_DTH-billing-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rushikeshudmale/M1_Application-Automation_DTH-billing-system&amp;utm_campaign=Badge_Grade)
@@ -34,6 +35,6 @@ Folder               | Description
 
 ## Learning Resources
 
-1.gcc makefile
-2.github workflow
-3.structure in c
+1.gcc makefile.
+2.github workflow.
+3.structure in c.
